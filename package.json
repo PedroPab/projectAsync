@@ -1,0 +1,27 @@
+{
+  "name": "projectasync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroPab/projectAsync.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedroPab/projectAsync/issues"
+  },
+  "homepage": "https://github.com/PedroPab/projectAsync#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  },
+  "type": "module",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
